@@ -1,0 +1,47 @@
+1646616913290	geckodriver	INFO	Listening on 127.0.0.1:62616
+1646616913814	mozrunner::runner	INFO	Running command: "D:\\Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\30203\\AppData\\Local\\Temp\\rust_mozprofilevoijhq"
+1646616914807	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\30203\\AppData\\Local\\Temp\\rust_mozprofilevoijhq\\search.json.mozlz4", (void 0)))
+1646616917726	Marionette	INFO	Listening on port 62621
+1646616918125	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://res.vmallres.com/portal/1.11.1.301/h5/homepage.js, line 7: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript warning: https://res.vmallres.com/portal/1.11.1.301/h5/homepage.js, line 7: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: undefined
+Marionette threw an error: TypeError: browsingContext.currentWindowGlobal is null
+getMarionetteCommandsActorProxy/get/<@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:332:29
+observe@resource://gre/modules/AsyncShutdown.jsm:575:16
+
+1646616938088	Marionette	INFO	Stopped listening on port 62621
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1646617109969	geckodriver	INFO	Listening on 127.0.0.1:63199
+1646617110533	mozrunner::runner	INFO	Running command: "D:\\Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\30203\\AppData\\Local\\Temp\\rust_mozprofile6McwMi"
+1646617110814	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\30203\\AppData\\Local\\Temp\\rust_mozprofile6McwMi\\search.json.mozlz4", (void 0)))
+1646617112415	Marionette	INFO	Listening on port 63204
+1646617112587	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://res.vmallres.com/portal/1.11.1.301/h5/homepage.js, line 7: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript warning: https://res.vmallres.com/portal/1.11.1.301/h5/homepage.js, line 7: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: undefined
+1646617203464	Marionette	INFO	Stopped listening on port 63204
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1646617206698	geckodriver	INFO	Listening on 127.0.0.1:63522
+1646617207211	mozrunner::runner	INFO	Running command: "D:\\Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\30203\\AppData\\Local\\Temp\\rust_mozprofileWRf0vw"
+1646617207679	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\30203\\AppData\\Local\\Temp\\rust_mozprofileWRf0vw\\search.json.mozlz4", (void 0)))
+1646617209441	Marionette	INFO	Listening on port 63528
+1646617209888	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://res.vmallres.com/portal/1.11.1.301/h5/homepage.js, line 7: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript warning: https://res.vmallres.com/portal/1.11.1.301/h5/homepage.js, line 7: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: undefined
+1646617249311	Marionette	INFO	Stopped listening on port 63528
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
